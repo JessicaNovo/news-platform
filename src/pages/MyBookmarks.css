@@ -1,0 +1,9 @@
+.bookmarks__list__wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.bookmarks__list__item {
+  margin-bottom: 40px;
+}

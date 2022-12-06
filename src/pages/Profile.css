@@ -1,0 +1,89 @@
+.my-profile__title {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.my-profile__title span {
+  color: #e04e4e;
+}
+
+.my-profile__new-post {
+  border: 1px solid #282c34;
+  border-radius: 25px;
+  background: #282c34;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+.my-profile__new-post:hover {
+  border: 1px solid #e04e4e;
+  background: white;
+  color:#e04e4e;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.articles-list__wrapper {
+  margin-top: 60px;
+  padding: 0 80px;
+}
+
+@media (max-width: 820px) {
+  .articles-list__wrapper  {
+    padding: 0 20px;
+  }
+}
+
+.articles-list__wrapper table {
+  width: 100%;
+}
+
+.articles-list__wrapper table th,
+.articles-list__wrapper table td {
+  padding: 10px 0;
+}
+
+.articles-list__title__header {
+  text-align: left;
+}
+
+.articles-list__title__wrapper {
+  text-decoration: none;
+  color:#282c34;
+  text-align: left;
+}
+
+.articles-list__author__header,
+.articles-list__author {
+  text-align: left;
+}
+
+.articles-list__title__wrapper:hover {
+  text-decoration: none;
+  color:#e04e4e;
+}
+
+.articles-list__edit-button__wrapper,
+.articles-list__view-button__wrapper {
+  text-align: right;
+}
+
+.articles-list__edit-button,
+.articles-list__view-button {
+  border: 1px solid #e04e4e;
+  background: white;
+  color:#e04e4e;
+  border-radius: 25px;
+  text-decoration: none;
+  padding: 8px 20px;
+}
+
+.articles-list__edit-button:hover,
+.articles-list__view-button:hover {
+  border: 1px solid #e04e4e;
+  background: #e04e4e;
+  color:white;
+  text-decoration: none;
+  cursor: pointer;
+}
