@@ -1,4 +1,4 @@
-# Sword Health Frontend Code Challenge - News Platform
+# News Platform
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -38,10 +38,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### Role User
 
 Sign up and test what this news platform can do
-
-### Role Admin
-
-Sign in with email: jessicanovof@gmail.com and password: Admin#2022 and test all the possibilities as an Admin
 
 ## Additional notes
 
